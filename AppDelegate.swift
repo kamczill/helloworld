@@ -12,6 +12,7 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
+    jade sobie tu na bicie o, polo rusza sie o o 
     glisne
 
 
