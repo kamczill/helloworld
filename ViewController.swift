@@ -12,6 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        var myList: [String] = ["test", "test2"]
+        let emptyList: [String] = []
+        print ("hello")
+        print ("aj bogactwo")
+        eeelo
         // Do any additional setup after loading the view, typically from a nib.
     }
 
